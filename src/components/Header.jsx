@@ -3,7 +3,7 @@ const Header = () => {
   return (
     <header>
       <img src={logo} alt="logo app" />
-      <h1></h1>
+      <h1>REACTquiz</h1>
     </header>
   );
 };
